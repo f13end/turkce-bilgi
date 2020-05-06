@@ -1,6 +1,6 @@
 
 
-<a href="https://ibb.co/Wc2jQNm"><img src="https://i.ibb.co/cNrVPK4/r42.png" alt="r42" border="0"></a>
+<a href="#"><img src="https://i.ibb.co/cNrVPK4/r42.png" alt="r42" border="0"></a>
 
 - Donanım Haber 
 https://www.youtube.com/channel/UCfIVTpOAjmeKmaiBd3rfwlA
