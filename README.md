@@ -170,6 +170,12 @@ https://www.youtube.com/user/KhanAcademyTurkce/featured
 https://www.youtube.com/channel/UCQw15E_rxf7O9PXxN2b3V1g
 - O Kim?
 https://www.youtube.com/channel/UCP7HG64DuPGfSwRvbiiN_vg/featured
+- Epic History TV 
+https://www.youtube.com/channel/UCvPXiKxH-eH9xq-80vpgmKQ/featured
+- Bilim 101
+https://www.youtube.com/channel/UCdp2nCbhgw2nw-xZuZPHLiA
+- ARGONOMİ 
+https://www.youtube.com/watch?v=u3Li882uOj8
 
 **Yapılacaklar**
 
