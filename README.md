@@ -176,6 +176,16 @@ https://www.youtube.com/channel/UCvPXiKxH-eH9xq-80vpgmKQ/featured
 https://www.youtube.com/channel/UCdp2nCbhgw2nw-xZuZPHLiA
 - ARGONOMİ 
 https://www.youtube.com/watch?v=u3Li882uOj8
+- Al Jazeera Turk
+https://www.youtube.com/channel/UCGUemcjx_p6zxrSu2FnrTrg
+- Belgesel İzlesene
+https://www.youtube.com/channel/UC3IBR40dHTyo5oDe5zZYBPA
+- Filozofumtırak
+https://www.youtube.com/channel/UCwnDOJMYZ6IAydNp8VTKcvA/videos
+- Gelecek Bilimde
+https://www.youtube.com/channel/UC03cpKIZShIWoSBhfVE5bog/videos
+
+
 
 **Yapılacaklar**
 
