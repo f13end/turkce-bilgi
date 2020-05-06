@@ -90,7 +90,7 @@ https://www.youtube.com/user/YazilimHerYerde
 https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ
 - Açıköğretim Sistemi - Anadolu Üniversitesi 
 https://www.youtube.com/channel/UC6-_IKv5-IipN6rYvnyoNUg
-- ShiftDelete.Net 
+- ShiftDeleteNet 
 https://www.youtube.com/channel/UCzNu79N8Lq1wUY52MkhWKSA
 - Yakın Kampüs
 https://www.youtube.com/user/yakinkampus1
@@ -166,6 +166,10 @@ https://www.youtube.com/channel/UCE2zvRTKeucutU-DFCR814w
 https://www.youtube.com/user/htmozfe/featured
 - KhanAcademyTurkce 
 https://www.youtube.com/user/KhanAcademyTurkce/featured
+- Secrets of the Past
+https://www.youtube.com/channel/UCQw15E_rxf7O9PXxN2b3V1g
+- O Kim?
+https://www.youtube.com/channel/UCP7HG64DuPGfSwRvbiiN_vg/featured
 
 **Yapılacaklar**
 
