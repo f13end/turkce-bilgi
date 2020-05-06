@@ -167,6 +167,7 @@ https://www.youtube.com/user/htmozfe/featured
 - KhanAcademyTurkce 
 https://www.youtube.com/user/KhanAcademyTurkce/featured
 
-**Yapılacaklar **
+**Yapılacaklar**
+
 - Twitch ve Udemy dersleri de eklenecektir.
 - Kategorilendirme
