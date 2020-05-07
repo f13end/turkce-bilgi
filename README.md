@@ -5,13 +5,13 @@ Bu arşivde sizlerden gelecek olan destek çok önemli olacaktır. Şu anda ilk 
 # Kategori Indeksi (Yapım asamasındadır)
 
 - Teknoloji
---Havacılık ve Uzay
---Askeri Teknoloji
+-- Havacılık ve Uzay
+-- Askeri Teknoloji
 - Bilisim
---Yazılım
---Donanım
---Algoritma
---Ağ ve Güvenlik
+-- Yazılım
+-- Donanım
+-- Algoritma
+-- Ağ ve Güvenlik
 - Belgesel
 - Kultur ve Sanat
 - Tarih
