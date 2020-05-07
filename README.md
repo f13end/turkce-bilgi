@@ -186,6 +186,32 @@ https://www.youtube.com/channel/UCGUemcjx_p6zxrSu2FnrTrg
 https://www.youtube.com/channel/UC3IBR40dHTyo5oDe5zZYBPA
 - Filozofumtırak
 https://www.youtube.com/channel/UCwnDOJMYZ6IAydNp8VTKcvA/videos
+- CHIP Online 
+https://www.youtube.com/user/ChipOnlineTR
+- kablosuzkedi
+https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured
+- Haluk TATAR
+https://www.youtube.com/channel/UCrVR30q-Seo82gBhmAe_1uQ
+- Mustafa Büyükçağlayan
+https://www.youtube.com/channel/UCVfwlubTdjM8ML3T5LBlqhg
+- Engin Demiroğ
+https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ
+- Hardware Plus 
+https://www.youtube.com/user/HWPtr
+- Elektrik Elektronik Uygulamaları 
+https://www.youtube.com/channel/UC2w2hqH0kHv7RXjCjdgXWnQ
+- ismailTPC_Hastanesi
+https://www.youtube.com/channel/UCeH3vDZOE9f8_XvnMcvxzsg
+- Uygula Öğren - Web Tasarım ve Yazılım Dersleri
+https://www.youtube.com/channel/UCm8oo9Eg29-Tg00Q4lYMUIQ
+- Evde Elektronik
+https://www.youtube.com/channel/UCecxqEZ4WUywy6EiNhVfbDw
+- Gömülü Sistemler Mühendislik Eğitimi
+https://www.youtube.com/channel/UCeS3G7EWnZW2NPtBngtzGaw
+- Automation
+https://www.youtube.com/channel/UCiBqyI52yrojYUVV1PG2M_w
+- Hüseyin Demirtaş ile İngilizce 
+https://www.youtube.com/user/dilsayar
 
 
 
