@@ -1,9 +1,11 @@
-
-
 <a href="#"><img src="https://i.ibb.co/cNrVPK4/r42.png" alt="r42" border="0"></a>
 
 Bu arşivde sizlerden gelecek olan destek çok önemli olacaktır. Şu anda ilk aşama olan kanalların toplanmasındayım. Ilerleyen gunlerde kategorilere göre ayırıp kanalları, aktiflik ve kaliteli icerige göre yeniden değerleme yapacağım. Dikkat ettiğim çok kıstas var ancak şu anda denetimleri tam anlamı ile yerine getiremeyebilirim. Hemen hemen tüm kategorilerde içerik ve kanallara yer vermeye çalışacağım. Aradığım en önemli özellik tarafsızlık ve kaynaklara bağlılık. Farklılıklarımızla guzeliz ve burada aradığımız en önemli şeyin **'bilgi'** olduğunu unutmayalım.
 
+- Gelecek Bilimde
+https://www.youtube.com/channel/UC03cpKIZShIWoSBhfVE5bog/videos
+- PopularScienceTR
+https://www.youtube.com/channel/UCEIOFgboUYjhEiV9qdPUoqw
 - Donanım Haber 
 https://www.youtube.com/channel/UCfIVTpOAjmeKmaiBd3rfwlA
 - tolgaozbekcom
@@ -184,10 +186,7 @@ https://www.youtube.com/channel/UCGUemcjx_p6zxrSu2FnrTrg
 https://www.youtube.com/channel/UC3IBR40dHTyo5oDe5zZYBPA
 - Filozofumtırak
 https://www.youtube.com/channel/UCwnDOJMYZ6IAydNp8VTKcvA/videos
-- Gelecek Bilimde
-https://www.youtube.com/channel/UC03cpKIZShIWoSBhfVE5bog/videos
-- PopularScienceTR
-https://www.youtube.com/channel/UCEIOFgboUYjhEiV9qdPUoqw
+
 
 
 **Yapılacaklar**
