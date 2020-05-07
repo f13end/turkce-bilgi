@@ -4,8 +4,8 @@ Bu arşivde sizlerden gelecek olan destek çok önemli olacaktır. Şu anda ilk 
 
 # Kategori Indeksi (Yapım asamasındadır)
 
-- Teknoloji
--- Havacılık ve Uzay
+-Teknoloji
+--Havacılık ve Uzay
 -- Askeri Teknoloji
 - Bilisim
 -- Yazılım
