@@ -2,6 +2,26 @@
 
 Bu arşivde sizlerden gelecek olan destek çok önemli olacaktır. Şu anda ilk aşama olan kanalların toplanmasındayım. Ilerleyen gunlerde kategorilere göre ayırıp kanalları, aktiflik ve kaliteli icerige göre yeniden değerleme yapacağım. Dikkat ettiğim çok kıstas var ancak şu anda denetimleri tam anlamı ile yerine getiremeyebilirim. Hemen hemen tüm kategorilerde içerik ve kanallara yer vermeye çalışacağım. Aradığım en önemli özellik tarafsızlık ve kaynaklara bağlılık. Farklılıklarımızla guzeliz ve burada aradığımız en önemli şeyin **'bilgi'** olduğunu unutmayalım.
 
+# Kategori Indeksi (Yapım asamasındadır)
+
+- Teknoloji
+--Havacılık ve Uzay
+--Askeri Teknoloji
+- Bilisim
+--Yazılım
+--Donanım
+--Algoritma
+--Ağ ve Güvenlik
+- Belgesel
+- Kultur ve Sanat
+- Tarih
+- Bilim
+- Tasarım
+- Zeka
+-- Satranç
+-- Go
+- Müzik
+
 ## Youtube
 
 - Gelecek Bilimde
