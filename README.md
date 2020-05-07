@@ -184,7 +184,8 @@ https://www.youtube.com/channel/UC3IBR40dHTyo5oDe5zZYBPA
 https://www.youtube.com/channel/UCwnDOJMYZ6IAydNp8VTKcvA/videos
 - Gelecek Bilimde
 https://www.youtube.com/channel/UC03cpKIZShIWoSBhfVE5bog/videos
-
+- PopularScienceTR
+https://www.youtube.com/channel/UCEIOFgboUYjhEiV9qdPUoqw
 
 
 **Yapılacaklar**
