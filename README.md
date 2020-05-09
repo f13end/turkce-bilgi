@@ -234,6 +234,8 @@ https://www.youtube.com/channel/UCeS3G7EWnZW2NPtBngtzGaw
 https://www.youtube.com/channel/UCiBqyI52yrojYUVV1PG2M_w
 - Hüseyin Demirtaş ile İngilizce 
 https://www.youtube.com/user/dilsayar
+- Filme Gitmeden Önce
+https://www.youtube.com/channel/UCPIWehw43V2ZP-K8-qbkpRQ
 
 ## Twitch
 
